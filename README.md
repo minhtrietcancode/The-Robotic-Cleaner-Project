@@ -19,9 +19,6 @@ Generates the full cleaning path for the robot, including backtracking if necess
 ### TASK 5: OPTIMAL CLEANER (BONUS)
 Creates a function `optimal_vacuuminator(world)` that returns a list of moves to clean all the dirt in the world in the fewest moves possible. If the Vacuuminator is unable to clean all dirt, it returns `None`. Assumes the world is less than 6 tiles in width and length.
 
-### FOR DETAILED DESCRIPTION
-Please refers to 
-
 ## Technical Implementation
 
 ### Data Structures
@@ -35,3 +32,5 @@ Please refers to
 - `D`: Dirt
 - `E`: Empty space
 
+## Documentation
+For detailed descriptions, examples, and task breakdowns, refer to `Task Description.md`.
