@@ -52,13 +52,6 @@ def distance_to_wall(world):
 /****************************************************************************
                                   TASK 2
 ****************************************************************************/
-# Getting position of cell based on row and column
-def get_position(cell, world):
-    for row in range(len(world)):
-        for col in range(len(world[0])): 
-            if world[row][col] == cell: 
-                return row, col
-             
 def make_move(world, direction):
     """ 
     Function: 
@@ -134,14 +127,6 @@ def make_move(world, direction):
 /****************************************************************************
                                   TASK 3
 ****************************************************************************/
-# Getting position of cell based on row and column
-def get_position(cell, world):
-    for row in range(len(world)):
-        for col in range(len(world[0])):
-            if world[row][col] == cell:
-                return row, col
-            
-    
 def path_to_next(world):
     """
     Function:
@@ -209,14 +194,6 @@ def path_to_next(world):
 /****************************************************************************
                                   TASK 4
 ****************************************************************************/
-# Getting position of cell based on row and column
-def get_position(cell, world):
-    for row in range(len(world)):
-        for col in range(len(world[0])): 
-            if world[row][col] == cell: 
-                return row, col
-
-            
 # Updating make_move to replace "D" with "E" as Vacuuminator passes through
 def make_move(world, direction):
     # The case "X" cannot move off the edges
