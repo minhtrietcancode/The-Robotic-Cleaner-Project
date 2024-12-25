@@ -2,6 +2,8 @@
 ## Project Background
 Originally a Python assignment for robot navigation, reimplemented in C for improved memory management, pointer manipulation, linked list data structures, and algorithm optimization. I have provided both the Python solution and the C solution for this project. Remember that the description in the file `Task Description.md` is for Python assignment, not for C assignment.
 
+You can access the Python solution by access the file `Project_1.py` and `Project_1.c` for the C version.
+
 ## Core Components
 
 ### TASK 1: DISTANCE TO WALL
