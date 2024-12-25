@@ -4,6 +4,9 @@ Originally a Python assignment for robot navigation, reimplemented in C for impr
 
 You can access the Python solution by access the file `Project_1.py` and `Project_1.c` for the C version.
 
+## Documentation
+For detailed descriptions, examples, and task breakdowns, refer to `Task Description.md`.
+
 ## Core Components
 
 ### TASK 1: DISTANCE TO WALL
@@ -34,5 +37,4 @@ If you have done all of the above tasks, you might perceive that the current sol
 - `D`: Dirt
 - `E`: Empty space
 
-## Documentation
-For detailed descriptions, examples, and task breakdowns, refer to `Task Description.md`.
+
