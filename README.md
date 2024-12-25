@@ -22,7 +22,7 @@ Generates the path from the robot to the most prioritized dirt ('D'), with prior
 Generates the full cleaning path for the robot, including backtracking if necessary, and returns the path to clean all accessible dirt.
 
 ### OPTIMAL CLEANER (BONUS)
-If you have done all of the above tasks, you might perceive that the current solutions for cleaning all of the dirts in the world still has some restrictions. Now if you want more challenge, creates a function `optimal_vacuuminator(world)` that returns a list of moves to clean all the dirt in the world in the fewest moves possible. If the Vacuuminator is unable to clean all dirt, it returns `None`. Assumes the world is less than 6 tiles in width and length. If you want to see the C version for this problem's solution, then refers to 
+If you have done all of the above tasks, you might perceive that the current solutions for cleaning all of the dirts in the world still has some restrictions. Now if you want more challenge, creates a function `optimal_vacuuminator(world)` that returns a list of moves to clean all the dirt in the world in the fewest moves possible. If the Vacuuminator is unable to clean all dirt, it returns `None`. Assumes the world is less than 6 tiles in width and length. If you want to see the C version for this problem's solution, then refers to [The-Optimal_Cleaner-Robot](https://2024s1-comp10001-d7ccc59f4734fd6399530ec2572d0fddd929b27d8ca441.pages.gitlab.unimelb.edu.au/)
 
 ## Technical Implementation
 
