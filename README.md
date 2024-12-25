@@ -1,6 +1,6 @@
 # VACUUMINATOR NAVIGATION SYSTEM
 ## Project Background
-Originally a Python assignment for robot navigation, reimplemented in C for improved memory management, pointer manipulation, linked list data structures, and algorithm optimization.
+Originally a Python assignment for robot navigation, reimplemented in C for improved memory management, pointer manipulation, linked list data structures, and algorithm optimization. I have provided both the Python solution and the C solution for this project. Remember that the description in the file `Task Description.md` is for Python assignment, not for C assignment.
 
 ## Core Components
 
@@ -16,8 +16,8 @@ Generates the path from the robot to the most prioritized dirt ('D'), with prior
 ### TASK 4: CLEANING PATH GENERATOR
 Generates the full cleaning path for the robot, including backtracking if necessary, and returns the path to clean all accessible dirt.
 
-### TASK 5: OPTIMAL CLEANER (BONUS)
-Creates a function `optimal_vacuuminator(world)` that returns a list of moves to clean all the dirt in the world in the fewest moves possible. If the Vacuuminator is unable to clean all dirt, it returns `None`. Assumes the world is less than 6 tiles in width and length.
+### OPTIMAL CLEANER (BONUS)
+If you have done all of the above tasks, you might perceive that the current solutions for cleaning all of the dirts in the world still has some restrictions. Now if you want more challenge, creates a function `optimal_vacuuminator(world)` that returns a list of moves to clean all the dirt in the world in the fewest moves possible. If the Vacuuminator is unable to clean all dirt, it returns `None`. Assumes the world is less than 6 tiles in width and length. If you want to see the C version for this problem's solution, then refers to 
 
 ## Technical Implementation
 
