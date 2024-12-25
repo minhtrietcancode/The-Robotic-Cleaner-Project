@@ -1,4 +1,4 @@
-Note that this is the Python description for the tasks in the assignment Project. There are four tasks in total, however if you guys want to see the optimal solution for the problem, then refers to 
+Note that this is the Python description for the tasks in the assignment Project. There are four tasks in total, however if you guys want to see the optimal solution for the problem, then refers to [The-Optimal-Cleaner-Robot](https://github.com/minhtrietcancode/The-Optimal-Cleaner-Robot)
 
 ### TASK 1: DISTANCE TO THE NEAREST WALL (3 marks)
 The Vacuuminator needs to figure out how far it needs to travel to reach the nearest wall.
